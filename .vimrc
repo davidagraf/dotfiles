@@ -75,6 +75,22 @@ set title
 set showcmd
 " Start scrolling three lines before the horizontal window border
 set scrolloff=3
+" Copy the indentation from the previous line
+set autoindent
+" Word wrap visually
+set wrap
+" Columns indented with the reindent operations (<< and >>)
+set shiftwidth=2
+" Insert space on tab key
+set expandtab
+" No additional space when joining lines
+set joinspaces
+" http://vim.wikia.com/wiki/Simplifying_regular_expressions_using_magic_and_no-magic
+set magic
+" Show yanked and deleted lines in message line
+set report=0
+" Dictionary for autocompletion
+set dict=/usr/share/dict/words
 
 " Strip trailing whitespace (,ss)
 function! StripWhitespace()
