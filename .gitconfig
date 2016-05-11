@@ -174,3 +174,7 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+	
+[user]
+	email = "(none)"                                                                                                                                                                                                                                                        
+	name = David Graf
