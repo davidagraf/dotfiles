@@ -182,5 +182,6 @@
 	insteadOf = "gist:"
 	
 [user]
-	email = "(none)"                                                                                                                                                                                                                                                        
 	name = David Graf
+	signingkey = ED0D16EC
+  useConfigOnly = true
