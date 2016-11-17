@@ -103,6 +103,7 @@ brew install imagemagick --with-webp
 #brew install vbindiff
 #brew install webkit2png
 #brew install zopfli
+brew install ruby
 
 # Remove outdated versions from the cellar.
 brew cleanup
