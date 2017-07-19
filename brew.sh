@@ -33,7 +33,6 @@ fi;
 # Install `wget` with IRI support.
 brew install wget --with-iri
 
-<<<<<<< HEAD
 # Install node
 brew install node
 
